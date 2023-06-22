@@ -26,4 +26,5 @@ The EmployeeManagementSystem class in the EmployeeManagementSystem.Core project 
 The high-level module (EmployeeManagementSystem) is decoupled from the low-level modules (EmployeeService and EmailService), both of which depend on abstractions (IEmployeeRepository and IEmailRepository).
 The dependency inversion is achieved through constructor injection, where the dependencies are passed to the class through its constructor.
 
+6. DIP : 
 Regarding the "High-level DIP," it refers to the fact that the high-level module (e.g., EmployeeManagementSystem) depends on abstractions (interfaces) rather than concrete implementations. In this project, the EmployeeManagementSystem class depends on the IEmployeeService and IEmailService interfaces, which are high-level abstractions.
