@@ -1,0 +1,15 @@
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/bin/Debug/net7.0/Employee-Manaement-System
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/bin/Debug/net7.0/Employee-Manaement-System.deps.json
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/bin/Debug/net7.0/Employee-Manaement-System.runtimeconfig.json
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/bin/Debug/net7.0/Employee-Manaement-System.dll
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/bin/Debug/net7.0/Employee-Manaement-System.pdb
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/Employee-Manaement-System.csproj.AssemblyReference.cache
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/Employee-Manaement-System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/Employee-Manaement-System.AssemblyInfoInputs.cache
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/Employee-Manaement-System.AssemblyInfo.cs
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/Employee-Manaement-System.csproj.CoreCompileInputs.cache
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/Employee-Manaement-System.dll
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/refint/Employee-Manaement-System.dll
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/Employee-Manaement-System.pdb
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/Employee-Manaement-System.genruntimeconfig.cache
+/Users/macbookair/dev/dotnetProjects/trainging/Employee-Manaement-System/obj/Debug/net7.0/ref/Employee-Manaement-System.dll
