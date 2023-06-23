@@ -4,11 +4,11 @@ using EMS.Core.Models;
 using EMS.App.Fun;
 
 /**
-        DIP : Principe d'Inversion de Dépendance (DIP)
-        Decouplage des modules de bas Niveau 
-         Dépend des abstractions (interfaces) plutôt que des implémentations concrètes.
-        (`EmployeeService` et `EmailService`), qui dépendent tous deux des abstractions 
-        (`IEmployeeRepository` et `IEmailRepository`).
+    DIP : Principe d'Inversion de Dépendance (DIP)
+    Decouplage des modules de bas Niveau 
+    Dépend des abstractions (interfaces) plutôt que des implémentations concrètes.
+    (`EmployeeService` et `EmailService`), qui dépendent tous deux des abstractions 
+    (`IEmployeeRepository` et `IEmailRepository`).
 */
 namespace EMS.App
 {
@@ -16,7 +16,6 @@ namespace EMS.App
     class  EmployeeManagementSystem {
         private readonly IEmployeeService _employeeService;
         private readonly IEmailService _emailService;
-
 
         public EmployeeManagementSystem(IEmployeeService employeeService, IEmailService emailService){
             _employeeService = employeeService;
